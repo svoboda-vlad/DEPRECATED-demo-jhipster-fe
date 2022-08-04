@@ -1,0 +1,39 @@
+{
+  "demoJhipsterFeApp": {
+    "employee": {
+      "home": {
+        "title": "Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit Employee",
+        "createOrEditLabel": "Vytvořit nebo upravit Employee",
+        "notFound": "No Employees found"
+      },
+      "created": "Byl vytvořen potomek entity Employee s identifikátorem {{ param }}",
+      "updated": "Potomek entity Employee s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Employee s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Employee {{ id }}?"
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "id": "ID",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "height": "Height",
+      "weight": "Weight",
+      "job": "Job",
+      "manager": "Manager",
+      "user": "User",
+      "department": "Department",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}
